@@ -6,14 +6,6 @@
 #define vi vector<int>
 #define S(v) sizeof(v)
 #define all(v) v.begin() v.end()
-
-
-void init(){
-    freopen("C:/Users/HP/Desktop/DSA/input.txt","r", stdin);
-    freopen("C:/Users/HP/Desktop/DSA/output1.txt", "w", stdout);
-}
-
-
 using namespace std;
 
  
@@ -41,16 +33,14 @@ void solve(){
     }
     else ans = 0;
     cout << ans << endl;
-    
-
-
 }
 
 
 int main(){
-    init();
-    /* Please set the input first */
-    
+// #ifndef init
+// freopen("C:/Users/HP/Desktop/input.txt","r", stdin);
+// freopen("C:/Users/HP/Desktop/output.txt", "w", stdout);
+// #endif
     int tt; 
     cin >> tt;
     while(tt--){

@@ -46,7 +46,7 @@ void solve(){
 
 
 int main(){
-    init();
+   // init();
     /* Please set the input first */
     
     int tt; 

@@ -6,8 +6,8 @@
 
 
 void init(){
-    freopen("C:/Users/HP/Desktop/DSA/input.txt","r", stdin);
-    freopen("C:/Users/HP/Desktop/DSA/output1.txt", "w", stdout);
+    freopen("C:/Users/HP/Desktop/input.txt","r", stdin);
+    freopen("C:/Users/HP/Desktop/output1.txt", "w", stdout);
 }
 
 
